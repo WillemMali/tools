@@ -49,7 +49,7 @@ root: no
 
 ## Firejail ##
 
-OS: 
+OS: Linux
 root: no
 based on: kernel namespaces, seccomp-bpf
 focus: user application isolation (i.e. Firefox, BitTorrent clients etc.)
